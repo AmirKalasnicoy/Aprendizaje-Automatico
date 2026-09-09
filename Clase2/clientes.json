@@ -1,0 +1,38 @@
+[
+  {
+    "id_cliente": 1,
+    "nombre": "Ana López",
+    "ciudad": "Buenos Aires",
+    "email": "ana.lopez@example.com"
+  },
+  {
+    "id_cliente": 2,
+    "nombre": "Bruno Díaz",
+    "ciudad": "Córdoba",
+    "email": "bruno.diaz@example.com"
+  },
+  {
+    "id_cliente": 3,
+    "nombre": "Carla Gómez",
+    "ciudad": "Rosario",
+    "email": "carla.gomez@example.com"
+  },
+  {
+    "id_cliente": 4,
+    "nombre": "Diego Fernández",
+    "ciudad": "Mendoza",
+    "email": "diego.fernandez@example.com"
+  },
+  {
+    "id_cliente": 5,
+    "nombre": "Elena Ruiz",
+    "ciudad": "La Plata",
+    "email": "elena.ruiz@example.com"
+  },
+  {
+    "id_cliente": 6,
+    "nombre": "Facundo Pérez",
+    "ciudad": "Mar del Plata",
+    "email": "facundo.perez@example.com"
+  }
+]
